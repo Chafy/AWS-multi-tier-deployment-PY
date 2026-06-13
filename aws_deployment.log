@@ -1,0 +1,42 @@
+2026-06-11 09:51:41,311 [INFO] Using AMI: ami-00e801948462f718a
+2026-06-11 09:51:41,311 [INFO] Starting Multi-Tier AWS Deployment
+2026-06-11 09:51:41,345 [INFO] Found credentials in shared credentials file: ~/.aws/credentials
+2026-06-11 09:51:41,442 [INFO] Creating VPC 10.0.0.0/16
+2026-06-11 09:51:44,287 [INFO] VPC vpc-0be5ce58cd6421b4c created
+2026-06-11 09:53:52,032 [INFO] Launch template web-lt-20260611095141 created
+2026-06-11 10:00:36,595 [INFO] Using AMI: ami-00e801948462f718a
+2026-06-11 10:00:36,595 [INFO] Starting Multi-Tier AWS Deployment
+2026-06-11 10:00:36,638 [INFO] Found credentials in shared credentials file: ~/.aws/credentials
+2026-06-11 10:00:36,737 [INFO] Creating VPC 10.0.0.0/16
+2026-06-11 10:00:39,902 [INFO] VPC vpc-09d7afed4d7184dc9 created
+2026-06-11 10:03:05,326 [INFO] Launch template web-lt-20260611100036 created
+2026-06-11 10:05:56,813 [INFO] Auto Scaling Group web-asg-20260611100036 created
+2026-06-11 10:05:59,925 [INFO] RDS instance web-db-20260611100036 creation initiated
+2026-06-11 10:05:59,927 [INFO] Deployment completed successfully!
+2026-06-11 10:06:00,812 [INFO] Access your application at: http://web-alb-20260611100036-1408676553.us-east-1.elb.amazonaws.com
+2026-06-13 17:58:50,614 [ERROR] DB_PASSWORD environment variable not set. Exiting.
+2026-06-13 18:00:07,862 [INFO] Using AMI: ami-00e801948462f718a
+2026-06-13 18:00:07,862 [INFO] Starting Multi-Tier AWS Deployment
+2026-06-13 18:00:07,911 [INFO] Found credentials in shared credentials file: ~/.aws/credentials
+2026-06-13 18:00:08,245 [INFO] Creating VPC 10.0.0.0/16
+2026-06-13 18:00:10,922 [INFO] VPC vpc-0208ebac3ecf1b7af created
+2026-06-13 18:02:32,640 [INFO] Launch template web-lt-20260613180007 created
+2026-06-13 18:05:23,867 [INFO] Auto Scaling Group web-asg-20260613180007 created
+2026-06-13 18:05:26,971 [INFO] RDS instance web-db-20260613180007 creation initiated
+2026-06-13 18:05:26,972 [INFO] Deployment completed successfully!
+2026-06-13 18:05:27,765 [INFO] Access your application at: http://web-alb-20260613180007-908713543.us-east-1.elb.amazonaws.com
+2026-06-13 18:44:06,667 [INFO] Using AMI: ami-00e801948462f718a
+2026-06-13 18:44:06,667 [INFO] Starting Multi-Tier AWS Deployment
+2026-06-13 18:44:06,699 [INFO] Found credentials in shared credentials file: ~/.aws/credentials
+2026-06-13 18:44:06,790 [INFO] Creating VPC 10.0.0.0/16
+2026-06-13 18:44:09,326 [INFO] VPC vpc-022e97f063b429009 created
+2026-06-13 18:46:35,430 [INFO] Using AMI: ami-00e801948462f718a
+2026-06-13 18:46:35,430 [INFO] Starting Multi-Tier AWS Deployment
+2026-06-13 18:46:35,473 [INFO] Found credentials in shared credentials file: ~/.aws/credentials
+2026-06-13 18:46:35,581 [INFO] Creating VPC 10.0.0.0/16
+2026-06-13 18:46:38,263 [INFO] VPC vpc-0090b546493dbcef3 created
+2026-06-13 18:48:30,862 [INFO] Launch template web-lt-20260613184635 created
+2026-06-13 18:51:52,156 [INFO] Auto Scaling Group web-asg-20260613184635 created
+2026-06-13 18:51:55,000 [INFO] RDS instance web-db-20260613184635 creation initiated
+2026-06-13 18:51:55,001 [INFO] Deployment completed successfully!
+2026-06-13 18:51:55,788 [INFO] Access your application at: http://web-alb-20260613184635-1134767811.us-east-1.elb.amazonaws.com
